@@ -3,4 +3,7 @@ rencana konten
 -python
 -arduino
   *membuat drone
--laravel
+  *teknologi pertanian
+  *membuat traktor otomatis
+-fremwork
+
