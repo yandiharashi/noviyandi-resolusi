@@ -3,4 +3,4 @@ rencana konten
 -python
 -arduino
   *membuat drone
--fremwork
+-laravel
