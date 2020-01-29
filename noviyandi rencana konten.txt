@@ -3,4 +3,5 @@ rencana konten
 -python
 -arduino
   *membuat drone
+  *teknologi pertanian
 -fremwork
