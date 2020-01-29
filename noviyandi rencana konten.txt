@@ -4,4 +4,5 @@ rencana konten
 -arduino
   *membuat drone
   *teknologi pertanian
+  *membuat traktor otomatis
 -fremwork
